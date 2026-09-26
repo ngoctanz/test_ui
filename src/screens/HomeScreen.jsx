@@ -41,7 +41,7 @@ function MapContent() {
     <section className="relative h-full bg-[#eef2f1] animate-in fade-in duration-500">
       {/* Background Map Image */}
       <img
-        src="/evcharge-map-v1.png"
+        src="evcharge-map-v1.png"
         alt="Bản đồ trạm sạc"
         className="absolute inset-0 h-full w-full object-cover z-0"
       />
@@ -189,7 +189,7 @@ function HomeContent() {
         
         {/* The 3D Car */}
         <img 
-          src="/ev-car-top-v1.png" 
+          src="ev-car-top-v1.png" 
           alt="EV Car" 
           className="relative z-10 w-[230px] object-contain drop-shadow-[0_24px_40px_rgba(0,0,0,0.25)] -mt-4"
         />

@@ -33,7 +33,7 @@ export default function LoginScreen({ onNavigate }) {
     <main className="relative flex h-full min-h-full flex-col overflow-y-auto bg-[#111612] text-[#1d1d1f]">
       <section className="relative flex h-[34%] min-h-[270px] w-full shrink-0 flex-col justify-end overflow-hidden px-7 pb-8 pt-14">
         <img
-          src="/login-hero-v3.png"
+          src="login-hero-v3.png"
           alt="Xe điện đang sạc tại trạm"
           className="absolute inset-0 h-full w-full object-cover object-center"
         />
@@ -41,7 +41,7 @@ export default function LoginScreen({ onNavigate }) {
 
         <div className="relative z-10 flex items-center gap-3.5">
           <img
-            src="/evcharge-logo-v5.png"
+            src="evcharge-logo-v5.png"
             alt=""
             className="h-[52px] w-[76px] shrink-0 object-contain"
           />
